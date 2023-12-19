@@ -1,9 +1,9 @@
-import ContainerPresentational from "./ContainerPresentational/ContainerPresentational";
+import RenderProp from "./RenderProp/RenderProp";
 
 const App = () => {
   return (
     <div>
-      <ContainerPresentational />
+      <RenderProp />
     </div>
   );
 };
