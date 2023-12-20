@@ -1,9 +1,9 @@
-import RenderProp from "./RenderProp/RenderProp";
+import HocCounter from "./HOC/HocCounter";
 
 const App = () => {
   return (
     <div>
-      <RenderProp />
+      <HocCounter />
     </div>
   );
 };
