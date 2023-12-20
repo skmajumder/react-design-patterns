@@ -1,5 +1,5 @@
 const withConsoleLog = (WrapperComponent) => {
-  return function consoleLog(props) {
+  return function HocComponent(props) {
     console.log("HOCs");
     return (
       <>
