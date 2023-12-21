@@ -22,6 +22,10 @@ a:hover {
   color: #535bf2;
 }
 
+li {
+  font-family: inherit;
+}
+
 body {
   margin: 0 auto;
   box-sizing: border-box;
